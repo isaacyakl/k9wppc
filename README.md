@@ -2,11 +2,11 @@
 
 K9 Web Protection Password Cracker v1.0 source code
 Copyright (c) 2014 izacktheyak.com. All rights reserved.
-Author: Yak/Isaac Litzenberger
+Author: Isaac "Yak" L
 
 To use any part of this code you must contact me and ask my permission via webmaster@izacktheyak.com
 
-Visit http://www.izacktheyak.com/software/k9wppc for more information.
+Visit http://izacktheyak.com/projects/k9-web-protection-password-cracker/ for more information.
 
 Description:
 This tool allows the user to recover the password of their K9 Web Protection installation.
