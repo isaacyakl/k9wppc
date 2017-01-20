@@ -1,5 +1,4 @@
-# k9wppc
-K9 Web Protection Password Cracker
+# K9 Web Protection Password Cracker
 
 K9 Web Protection Password Cracker v1.0 source code
 Copyright (c) 2014 izacktheyak.com. All rights reserved.
