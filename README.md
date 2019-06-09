@@ -6,7 +6,7 @@ Author: Isaac "Yak" L
 
 Released under GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.en.html
 
-Visit http://izacktheyak.com/projects/k9-web-protection-password-cracker/ for more information.
+Visit https://isaacyakl.com/projects/k9-web-protection-password-cracker/ for more information.
 
 Description:
 This tool allows the user to recover the password of their K9 Web Protection installation.
@@ -17,4 +17,4 @@ the password hashing algorithm
 of K9 Web Protection software,
 which he published at:
 
-http://insecurety.net/?p=148
+https://insecurety.net/?p=148
